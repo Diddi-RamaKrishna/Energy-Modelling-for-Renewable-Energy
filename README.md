@@ -54,5 +54,5 @@ Dependencies
 This function requires the NumPy library for array operations.
 
 Author
-This function was authored by [Your Name].
+This function was authored by Rama Krishna
 
