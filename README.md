@@ -1,5 +1,6 @@
-# Energy-Modelling-for-Renewable-Energy
+![image](https://github.com/D-Ramakrishna/Energy-Modelling-for-Renewable-Energy/assets/160122925/cfa4132c-a2ba-44e9-a490-c959ed887f4e)# Energy-Modelling-for-Renewable-Energy
 It is an energy modelling simulation combining wind, solar and battery with respect to the demand
+![Uploading image.png…]()
 
 To create a README file explaining the working of the energy_management function, you can follow a structured approach to describe its purpose, inputs, outputs, and the steps involved in the energy management process. Here's a template you can use:
 
