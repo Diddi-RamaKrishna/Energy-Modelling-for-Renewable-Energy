@@ -47,10 +47,15 @@ Loss 2 Calculation: Calculates additional energy loss beyond capacity constraint
 Usage
 Example usage of the energy_management function:
 
-python
-Copy code
 # Example usage
+wind_profile= #provide wind profile for that particular location out of 50 MW
+solar_profile= #provide solar profile for that particular location out of 50 MW
+hourly_wind_generation = (wind_profile * wind_capacity) / 50
+hourly_solar_generation = (solar_profile * solar_capacity) / 50
+generation = np.add(hourly_wind_generation, hourly_solar_generation)
+
 result = energy_management(generation, demand_values, planted_capacity, battery_soc, battery_efficiency)
+
 Dependencies
 This function requires the NumPy library for array operations.
 
