@@ -1,5 +1,3 @@
-Sure, here is the completed README file content for the `energy_management` function:
-
 ---
 
 # Energy Management Function README
